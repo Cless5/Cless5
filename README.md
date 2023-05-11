@@ -1,4 +1,4 @@
-# **Welcome 8)**
+# **Welcome to my profile**
 
 ---
-I'm a student that likes to code
+Hello there
