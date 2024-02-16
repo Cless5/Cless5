@@ -1,4 +1,5 @@
 # **Welcome to my profile**
 
 ---
-frog :)
+
+Junior developer looking for new things to learn and develop
